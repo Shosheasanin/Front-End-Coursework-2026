@@ -7,6 +7,14 @@ Website URL:
 https://shosheasanin.github.io/Front-End-Coursework-2026/
 
 ---
+## Project Demonstration Video
+
+YouTube Video:
+https://youtu.be/FoXrfXr2Wus?si=NCJ3PklPq1k8Gn84
+
+## Live Website
+
+https://shosheasanin.github.io/Front-End-Coursework-2026/
 
 ## Project Description
 
